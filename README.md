@@ -1,2 +1,3 @@
 # Breakout
-Game
+It is my first project
+
