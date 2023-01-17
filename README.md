@@ -1,3 +1,4 @@
 # Breakout
-It is my first project
+I am presenting the first poject on js.
+It is game("Breakout").
 
